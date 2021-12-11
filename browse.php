@@ -26,7 +26,6 @@
 <script>print_header2()</script>
 </header>
 <script>
-print_footer();
 mark_selected();
 </script>
 </body>
