@@ -62,10 +62,6 @@
 </div>
 </nav>
 <p style="overflow-wrap: break-word;">
- <a href="https://bitcoin.org" target="_NEW">BTC</a>: <b>3EoJMDs79b3ztkYvj2E1D98eHnZyCSQKso</b>
-<br /><a href="https://bitcoin.org" target="_NEW">BTC (Bech32)</a>: <b>bc1q9x30z7rz52c97jwc2j79w76y7l3ny54nlvd4ew</b>
-<br /><a href="https://litecoin.org" target="_NEW">LTC</a>: <b>LS78aoGtfuGCZ777x3Hmr6tcoW3WaYynx9</b>
-<br /><a href="https://getmonero.org" target="_NEW">XMR</a>: <b>46E5ekYrZd5UCcmNuYEX24FRjWVMgZ1ob79cRViyfvLFZjfyMhPDvbuCe54FqLQvVCgRKP4UUMMW5fy3ZhVQhD1JLLufBtu</b>
 </p>
 </footer>
 </body>
